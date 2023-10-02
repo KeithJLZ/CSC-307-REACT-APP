@@ -43,3 +43,4 @@ function Table(props) {
     </table>
   );
 }
+export default Table;
